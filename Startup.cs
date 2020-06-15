@@ -23,7 +23,7 @@ namespace GitGud
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            // Actually, the powerhouse of the cell is the mitochondria
+            // Mitochondria will rule the world some day!
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
